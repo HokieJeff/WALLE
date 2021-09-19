@@ -1,0 +1,14 @@
+twitch:
+    client_id: <twitch client id>
+    client_secret: <twitch client secret>
+discord:
+    token: <discord token>
+    log_channel_id: <log channel id>
+
+streams:
+    shroud:
+      announcement_channel_id: <announcement channel id>
+      alert_msg: '@everyone shroud is live POGGERS'
+    lirik:
+      announcement_channel_id: <announcement channel id>
+      alert_msg: '@everyone yo lirik is live! grab your popcorn!'
