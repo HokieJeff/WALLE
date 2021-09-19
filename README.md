@@ -1,5 +1,5 @@
 # WALLE
-Stream Alert Discord Bot
+Stream Alert Discord Bot (SADBot)
 
 I won't be maintaining this repository, so fork it if you'd like.
 
